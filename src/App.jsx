@@ -4,12 +4,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="Octocat.png" className="App-logo" alt="logo" />
+        <img src="logo512.png" className="App-logo" alt="logo" />
         <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
+          Guide J <span className="heart">♥️</span> React Postgresql Combo
         </p>
         <p className="small">
-          Edit <code>src/App.jsx</code> and save to reload.
+          Build up frontend by checking <code>src</code> and connect to Postgresql.
         </p>
         <p>
           <a
