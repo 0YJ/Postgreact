@@ -9,7 +9,6 @@ Everything you do here is contained within this one codespace. There is no repos
 This project was bootstrapped for you with [Vite](https://vitejs.dev/).
 
 ## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
